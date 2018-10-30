@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-base
 Epoch:		1
 Version:	20120224
-Release:	10
+Release:	11
 Summary:	TeX Live documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
